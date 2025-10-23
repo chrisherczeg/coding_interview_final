@@ -2,6 +2,7 @@
 #define UART_REGISTERS_H
 
 #include <cstdint>
+#include <cstddef>
 
 namespace uart {
 
